@@ -14,12 +14,7 @@ Always open to connecting with other developers, students, and people building c
 
 https://www.linkedin.com/in/buruk-ayalew/?isSelfProfile=true 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Buruk-Ayalew&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=8b949e&icon_color=58a6ff"
-    width="500"
-  />
-</p>
+
 
 <p align="center">
   <img
