@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Buruk 👋
 
-<!--
-**Buruk-Ayalew/Buruk-Ayalew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 University of Maryland
+💻 Computer Science Student, Class of 2028  
 
-Here are some ideas to get you started:
+### Currently
+- 🔭 Working on personal and school projects
+- 🌱 Learning new technologies and improving my skills
+- 🎯 Preparing for the next step in my career
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+Always open to connecting with other developers, students, and people building cool things.
+https://www.linkedin.com/in/buruk-ayalew/?isSelfProfile=true 
