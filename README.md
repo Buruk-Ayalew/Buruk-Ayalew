@@ -16,7 +16,7 @@ https://www.linkedin.com/in/buruk-ayalew/?isSelfProfile=true
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buruk-Ayalew&theme=github_dark"
     width="95%"
   />
 </p>
