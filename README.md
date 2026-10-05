@@ -5,9 +5,9 @@
 💻 Computer Science Student
 
 ### Currently
-- 🔭 Working on personal and school projects
-- 🌱 Learning new technologies and improving my skills
-- 🎯 Preparing for the next step in my career
+- Working on personal and school projects
+- Learning new technologies and improving my skills
+- Preparing for the next step in my career
 
 
 
