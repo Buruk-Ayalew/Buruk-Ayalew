@@ -1,6 +1,7 @@
 # Hey, I'm Buruk 👋
 
 🎓 University of Maryland
+
 💻 Computer Science Student, Class of 2028  
 
 ### Currently
