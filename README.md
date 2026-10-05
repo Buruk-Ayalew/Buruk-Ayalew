@@ -2,7 +2,7 @@
 
 🎓 University of Maryland
 
-💻 Computer Science Student, Class of 2028  
+💻 Computer Science Student
 
 ### Currently
 - 🔭 Working on personal and school projects
