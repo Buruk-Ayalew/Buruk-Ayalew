@@ -15,7 +15,11 @@ Always open to connecting with other developers, students, and people building c
 https://www.linkedin.com/in/buruk-ayalew/?isSelfProfile=true 
 
 
+## 🚀 Featured Projects
 
+- **[FitCheck](https://github.com/HackedRico/FitCheck)** — Hacktoberfest UMD Open-Source AI winner, Pick outfits and see them on you live
+- **[ASL-signscribe](https://github.com/Poiixen/ASL-signscribe)** — A real-time, ASL sign detector designed to recognize and interpret ASL gestures
+- **[RegWise](https://github.com/Buruk-Ayalew/HackUMBC-project)** — A full-stack compliance platform for Maryland businesses using React, Node.js, and TypeScript, cross-referencing business profiles with state laws and tax deadlines
 
 
 <p align="center">
