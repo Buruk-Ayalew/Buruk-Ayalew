@@ -11,4 +11,5 @@
 
 ### Let's Connect
 Always open to connecting with other developers, students, and people building cool things.
+
 https://www.linkedin.com/in/buruk-ayalew/?isSelfProfile=true 
