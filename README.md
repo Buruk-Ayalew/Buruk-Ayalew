@@ -2,10 +2,10 @@
 
 🎓 University of Maryland
 
-💻 Computer Science Student
+💻 Computer Science Undergrad Student
 
 ### Currently
-- Working on personal and school projects
+- Working on FitCheck and FilmWrapped
 - Learning new technologies and improving my skills
 - Preparing for the next step in my career
 
