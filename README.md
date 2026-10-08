@@ -10,7 +10,6 @@
 - Preparing for the next step in my career
 
 
-
 ## 🚀 Featured Projects
 
 - **[FitCheck](https://github.com/HackedRico/FitCheck)** — Hacktoberfest UMD Open-Source AI winner, Pick outfits and see them on you live
